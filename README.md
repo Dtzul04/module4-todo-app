@@ -6,16 +6,13 @@
 
 A simple To-Do List web application built with HTML, CSS, and vanilla JavaScript for INEW 2330 – Module 4.
 
-**Live site:** [Coming Soon]
+**Live site:** https://dtzul04.github.io/module4-todo-app/
 
 ---
 
 ## 🚀 Features
 - [x] Enter a task
 - [x] Add the task to a list
-- [ ] Delete tasks *(extra credit)*
-- [ ] Mark tasks as completed *(extra credit)*
-- [ ] Change the page color *(extra credit)*
 
 ---
 
