@@ -49,22 +49,6 @@ module4-todo-app/
 
 ---
 
-## 👥 Team & Responsibilities
-| Name | Responsibilities |
-|------|------------------|
-| Daniel Tzul | TBA |
-| Adriana Padilla | TBA |
-
----
-
-## 🔀 Git Workflow
-- One branch per task (`feature/...`, `docs/...`, `chore/...`).
-- No direct commits to `main`.
-- Open a Pull Request for every branch. The other teammate reviews before merging.
-- Pull `main` into your branch before opening a PR.
-
----
-
 ## 🌐 Deployment
 Hosted with **GitHub Pages** from the `main` branch.
 
